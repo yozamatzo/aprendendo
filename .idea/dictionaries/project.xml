@@ -2,18 +2,23 @@
   <dictionary name="project">
     <words>
       <w>aprovado</w>
+      <w>contador</w>
       <w>digitados</w>
       <w>digite</w>
       <w>impar</w>
       <w>invalidos</w>
+      <w>letra</w>
+      <w>letras</w>
       <w>maior</w>
       <w>menor</w>
       <w>multiplicador</w>
       <w>notas</w>
       <w>numeros</w>
+      <w>palavra</w>
       <w>primeiro</w>
       <w>reprovado</w>
       <w>suas</w>
+      <w>vogais</w>
     </words>
   </dictionary>
 </component>
